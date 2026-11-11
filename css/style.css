@@ -1,0 +1,181 @@
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    ;
+}
+
+.unit1{
+
+    background-color: rgb(3, 56, 106);
+    color: white;
+    padding: 13px;
+    text-align: center;
+    font-size: 7px;
+    font-weight: 100;
+}
+
+
+.unit2{
+background-color: white;
+padding: 10px;
+color: black;
+display: flex;
+gap:20px
+}
+
+.unit2a img{
+width: 50%;
+padding: 10px;
+}
+
+.unit2b ul{
+   display: flex;
+    gap: 25px;
+    list-style-type: none;
+    padding:  15px;
+
+}
+
+/* .unit3{
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+
+} */
+.unit3{
+     display: flex;
+    gap: 25px;
+    list-style-type: none;
+    padding:  15px;
+}
+
+
+
+
+
+
+
+
+.search{
+    padding: 10px;
+    border-radius: 10px;
+    width: 70%;
+}
+.btn{
+    background-color: rgb(rgb(14, 14, 119) green blue / alpha);
+    color: white;
+    padding: 5px;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-size: 25px;
+}
+
+.unit4{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background-color: rgb(240, 229, 230);
+    border-top: 3PX solid rgb(47, 11, 139);
+}
+
+.unit4b img{
+    width: 100%;
+}
+
+.unit4a{
+    padding: 50px;
+    text-align: center;
+    font-size: 20px;
+    color: blue;
+}
+
+.unit4a1{
+    color: brown;
+}
+.color{
+    border: 1px solid rgb(rgb(232, 49, 49) green blue / alpha);
+    padding: 5px;
+
+border-radius: 10px;
+color: rgb(rgb(83, 5, 111) green blue / alpha);
+
+}
+
+
+.unitc ul{
+    display: flex;
+    gap: 20px;
+    background-color: white;
+}
+.unitd{
+    display: flexbox;
+    width: 100px;
+    background-color: grey(222, 189, 163);
+    color: blue;
+}
+
+.unit5{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background-color: rgb(240, 229, 230);
+    border-top: 3PX solid rgb(47, 11, 139);
+}
+
+.unit5a h1 h5{
+    
+    padding: 50px;
+    font-size: 20px;
+    color: blue;
+    gap: 10px;
+}
+
+.unit5a{
+    margin-top: 300px;
+}
+
+#image:hover{
+    transform: scale(1.05);
+    transition: ease-in-out 0.3s;
+}
+#image{
+    border: 1px solid brown;}
+
+.unitd img:hover{
+    transform: scale(1.05);
+    transition: ease-in-out 0.3s;
+}
+.unitd{
+    background-color: blue;
+}
+.unit6 img h1 p{
+text-align: center;
+display: flex;
+font-size: 20px;
+gap: 20px;
+border-radius: 10px;
+}
+
+.unit6 button{
+    text-align: center;
+    background-color: blue;
+    color: white;
+    margin-top: 50px;
+    text-transform: rgb(0, 0, 0);
+}
+ 
+.unit7{
+    text-align: center;
+    display: flex; 
+    font-size: 18px;
+    gap: 20px;
+    border-radius: 10px;
+    color: rgb(67, 16, 177);
+    background-color: rgb(178, 173, 159);
+    padding: 50px
+}
+
+
+
+
+
